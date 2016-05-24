@@ -11,7 +11,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-
+gem 'rb-readline', '~> 0.4.2'
 gem 'devise'
 gem 'acts_as_follower'
 gem 'acts_as_votable', '~> 0.10.0'
